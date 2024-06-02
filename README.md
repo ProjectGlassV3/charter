@@ -30,11 +30,13 @@ The following behaviors are considered unacceptable within our community:
 
 4. **Distribution of Internal/Private Projects**: Unauthorized distribution of projects labeled as internal or private is strictly prohibited. This includes, but is not limited to, sharing internal code, documentation, or any other proprietary information without explicit permission from Roxxon Corporation.
 
-5. **Maintaining Original Authorship**: Failing to properly credit original authorship of contributions is strictly prohibited. Always give credit where it is due.
+5. **Not Maintaining Original Authorship**: Failing to properly credit original authorship of contributions is strictly prohibited. Always give credit where it is due.
 
 6. **Misuse of Resources**: Participants may receive access to Roxxon's resources, including API keys and systems access, as part of their involvement in Project Glass. These resources are strictly for project-related use only. Any personal use outside of the project or sharing of these resources with unauthorized individuals will result in permanent removal from the project and may lead to legal action, depending on the severity and the extent of monetary or intellectual property loss incurred.
 
-7. **Unauthorized Use of Internal Code**: Maintainers are prohibited from using any internal or private project code in other projects without the express approval of the project code owner and written consent via email from [licensing@roxxonlegal.com](mailto:licensing@roxxonlegal.com).
+7. **Unauthorized Use of Internal Code**: Maintainers are prohibited from using any internal or private project code in other projects without the express approval of the project code owner and written consent via email from [licensing@roxxonlegal.com](mailto:licensing@roxxonlegal.com). Internal and private projects are clearly marked on GitHub as internal or private, and are not publicly viewable.
+
+8. **Intentional Sabotage**: Deceptively introducing any code purposely designed to sabotage the project, or designed to purposely introduce security vulnerabilities or in any way case data leakage, including end user data leakage is strictly prohibited and will result in a permanent ban from the project, as well as extensive public disclosure of what happened, including any and all available information about the committer. Depending on the severity of the actions, we may also refer any and all information to law enforcement.
 
 ## Penalties
 Violations of this Code of Conduct may result in consequences up to and including:
